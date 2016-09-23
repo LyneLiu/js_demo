@@ -20,6 +20,7 @@
 	  'percentage' : 50
     };
 
+	/*引用该函数的可能元素可能不止一个，使用this.each可以对所有引用进行相应操作*/
     return this.each(function() {        
       if ( options ) { 
 		/*jQuery.extend 对jQuery本身的属性和方法进行了扩展，常用的方法是当第二个参数obj2中存在第一个参数obj1的元素时，直接将其引用覆盖掉
