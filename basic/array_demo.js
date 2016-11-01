@@ -66,3 +66,10 @@ a.join(' | ') // "1 | 2 | 3 | 4"
 a.join() // "1,2,3,4"
 
 
+/* #####################################################
+*	concat、shift、unshift、reverse、slice、splice、sort、
+*	map、filter、forEach、some、every、reduce、reduceRight、
+*	indexOf、lastIndexOf、链式使用
+* #####################################################
+*/
+
