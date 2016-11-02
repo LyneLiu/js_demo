@@ -1,0 +1,9 @@
+﻿/*定义验证码的css样式*/
+.checkcode_css{
+	width:70px;
+	border:0;
+	padding:2px 3px;
+	letter-spacing:3px;
+	font-weight:bolder;
+	height: 20px;
+}
